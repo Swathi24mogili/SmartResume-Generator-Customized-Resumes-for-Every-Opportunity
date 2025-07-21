@@ -1,0 +1,2 @@
+We are looking for a skilled Python Developer with experience in Natural Language Processing (NLP),
+Machine Learning, and API development. Experience with cloud platforms like AWS is a plus.
